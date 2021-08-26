@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class ProjectCompletion {
     
     static int calculateDays(String date1, String date2) {
